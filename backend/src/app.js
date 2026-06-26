@@ -5,7 +5,7 @@ const errorHandler = require('./middleware/errorHandler');
 const app = express();
 
 app.use(cors({
-  origin: ['http://localhost:5173', 'http://localhost:4173', 'https://taskboard-sigma-five.vercel.app'],
+  origin: ['http://localhost:5173', 'http://localhost:4173', 'https://taskboard-sigma-five.vercel.app', 'https://taskboard-9sjx.vercel.app'],
   credentials: true,
 }));
 
