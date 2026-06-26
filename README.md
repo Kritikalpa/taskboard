@@ -74,4 +74,6 @@ frontend/
 
 ## API
 
-See [API_DOCUMENTATION.md](./API_DOCUMENTATION.md).
+Base URL: `https://taskboard-sigma-five.vercel.app/api`
+
+See [API_DOCUMENTATION.md](./API_DOCUMENTATION.md) for all endpoints.
